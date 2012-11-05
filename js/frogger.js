@@ -108,7 +108,7 @@ window.requestAnimFrame = (function(callback) {
         };
       })();
 	  
-document.onkeypress = keyhandler;
+document.onkeydown = keyhandler;
 
 var keyup = false;
 var keydown = false;
