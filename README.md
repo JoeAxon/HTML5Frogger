@@ -9,3 +9,4 @@ Issues
 * Doesn't detect water collision
 * Logs on top row not displayed
 * Instructions unclear
+* Strange image drawing artifacts
